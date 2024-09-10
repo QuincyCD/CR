@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  secondchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-10T14:25:21.379313324+02:00"
+    description: A Helm chart for Kubernetes
+    digest: af5a7d431a3fffa30860bddf521c7832dd0f8c76339c453a650afc4873b2fbc9
+    name: secondchart
+    type: application
+    urls:
+    - secondchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-10T14:25:21.375865795+02:00"
